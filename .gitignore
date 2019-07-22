@@ -1,4 +1,5 @@
 !node_modules/telegraf-session-local/lib/*
+.idea/
 # Logs
 logs
 *.log
