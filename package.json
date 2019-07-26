@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npm esm src/index",
+    "start": "node -r esm src/index",
     "dev": "nodemon -r esm src/index --config nodemon.json"
   },
   "author": "",
